@@ -25,7 +25,7 @@ This project performs **real-time emotion recognition** using your webcam. It de
 ---
 
 ## Role of OpenCV and Deep Learning
-Haarcascade is a face detection algorithm in OpenCV.
+**Haarcascade** is a face detection algorithm in OpenCV.
 
 Loads a Haar cascade classifier for detecting faces in an image.
 
